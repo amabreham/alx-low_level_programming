@@ -5,7 +5,7 @@
  * Return: 0
  */
 
-void print_lowercase(void)
+void print_alphabet(void)
 {
 	char alpha;
 
